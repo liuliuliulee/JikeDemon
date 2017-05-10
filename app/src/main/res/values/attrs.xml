@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <!--<attr name="circleColor" format="color" />-->
+    <!--<attr name="circleText" format="string" />-->
+    <!--<attr name="circleTextSize" format="dimension" />-->
+
+
+    <declare-styleable name="CircleView">
+        <attr name="circleColor" format="color"/>
+        <attr name="circleText" format="string"/>
+        <attr name="circleTextSize" format="dimension"/>
+    </declare-styleable>
+
+
+</resources>

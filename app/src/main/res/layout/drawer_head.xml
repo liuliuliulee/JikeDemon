@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="160dp"
+    xmlns:haha="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/drawer_head_background"
+    android:background="@mipmap/sunset"
+    android:orientation="vertical">
+
+    <com.shabiao.joy.jikedemon.view.CircleView
+        android:id="@+id/circle"
+        android:layout_width="wrap_content"
+        haha:circleText="哈哈哈哈"
+        haha:circleTextSize="18sp"
+        haha:circleColor="@android:color/holo_green_dark"
+        android:layout_height="wrap_content" />
+
+</LinearLayout>
